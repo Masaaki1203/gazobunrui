@@ -1,1 +1,1 @@
-# gazobunrui_day1
+# 画像分類塾
